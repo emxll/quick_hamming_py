@@ -1,3 +1,7 @@
+/*
+    gcc -fPIC -shared -o hamming.so hamming.c
+*/
+
 #include <stdio.h>
 #include <stdint.h>
 
